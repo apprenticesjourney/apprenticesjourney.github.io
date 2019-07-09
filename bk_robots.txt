@@ -1,0 +1,3 @@
+https://www.xml-sitemaps.com/
+User-Agent: *
+Sitemap: https://the-apprentice-s-journey.github.io/sitemap.xml
