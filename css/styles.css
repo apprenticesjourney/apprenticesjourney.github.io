@@ -1,7 +1,20 @@
-.archetype_img {
-    background-image: url(‘assets/archetypes/visual.png’);
+/*.archetype_img {
+    background-image: url(‘assets/cover.png’);
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
-    background-repeat: no-repeat;
+}*/
+
+.cover_img {
+  min-height: 455px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .row-striped:nth-of-type(odd){
